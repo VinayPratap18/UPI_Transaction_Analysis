@@ -1,0 +1,111 @@
+UPI Transaction Analysis using Excel
+Project Overview
+
+This project focuses on analyzing UPI transaction data using Microsoft Excel to identify business insights related to:
+
+Transaction performance
+Fraud trends
+Failed transactions
+Customer behavior
+Banking and regional analysis
+
+The project demonstrates how Excel can be used for data cleaning, validation, analysis, and dashboard creation for business decision-making.
+
+Objective
+
+The main objectives of this project are:
+
+Analyze UPI transaction trends
+Identify fraud-prone patterns
+Detect failed transaction issues
+Understand customer behavior
+Generate business insights using Excel dashboards
+Tools & Features Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Conditional Formatting
+Data Validation
+Lookup Functions
+Sorting & Filtering
+Excel Formulas
+Interactive Dashboard
+Dataset Information
+
+The dataset contains:
+
+Customer Details
+Transaction Amount
+Transaction Status
+Device Information
+Bank Information
+Region Data
+Fraud Indicators
+Payment Channels
+Excel Workflow
+1. Data Cleaning
+Removed duplicate records
+Handled missing values
+Corrected inconsistent formatting
+Standardized data types
+2. Data Validation
+Checked invalid transaction values
+Verified customer and bank details
+Ensured consistency across columns
+3. Data Analysis
+
+Performed analysis on:
+
+Successful transactions
+Failed transactions
+Fraud transactions
+Bank-wise performance
+Region-wise trends
+Channel-wise transaction behavior
+4. Dashboard Development
+
+Created an interactive dashboard using:
+
+KPI Cards
+Charts
+Slicers
+Dynamic Pivot Tables
+Key Insights
+Transaction Insights
+Transaction success rate remained high across most years
+Transaction volume increased significantly over time
+Fraud Analysis
+Senior citizens were more vulnerable to fraud activities
+QR-code payments showed higher fraud involvement
+Failed Transaction Analysis
+Android devices recorded higher failed transactions
+Northern region showed higher transaction failure rates
+Customer Insights
+Active customers formed the majority user base
+A noticeable percentage of customers were at risk of churn
+Business Recommendations
+Improve fraud monitoring systems
+Strengthen QR-code transaction security
+Optimize mobile application performance
+Improve banking server reliability
+Launch customer retention campaigns
+Dashboard Features
+Year-wise Transaction Trends
+Fraud Distribution Analysis
+Failed Transaction Monitoring
+Region-wise Performance
+Bank-wise Analysis
+Customer Activity Insights
+Learning Outcomes
+
+Through this project, I improved my skills in:
+
+Excel Data Analysis
+Dashboard Designing
+Business Intelligence
+Data Cleaning & Validation
+KPI Reporting
+Analytical Thinking
+Conclusion
+
+This Excel project demonstrates how transaction data can be transformed into meaningful business insights using data analysis and visualization techniques. The dashboard helps stakeholders monitor performance, identify risks, and make data-driven decisions effectively.
